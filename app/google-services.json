@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "613014003287",
+    "firebase_url": "https://chatapp-10276.firebaseio.com",
+    "project_id": "chatapp-10276",
+    "storage_bucket": "chatapp-10276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613014003287:android:5b4d0466e8fc5a0a750d12",
+        "android_client_info": {
+          "package_name": "com.gaurav.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613014003287-33hrnti5tbl5gbuchqluha259cipmdpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav.chat_app",
+            "certificate_hash": "b3cc2499d5a871d88d8b8434e8a2558f3751acf3"
+          }
+        },
+        {
+          "client_id": "613014003287-h24b9qg5ha1vu5pnfu53j6qlub0sbe2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav.chat_app",
+            "certificate_hash": "b64a9fa29dc8bbf6e9e17c1105be8068a3315fee"
+          }
+        },
+        {
+          "client_id": "613014003287-otncb9co72j8ormg8tum5t76k37cp4ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnq3ffLcsPysFl7sC-z6qjow29AoqvvhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613014003287-otncb9co72j8ormg8tum5t76k37cp4ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

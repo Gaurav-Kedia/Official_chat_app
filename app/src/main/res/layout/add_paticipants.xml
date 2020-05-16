@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Add_paticipants">
+
+    <include
+        android:id="@+id/add_participants_toolbar"
+        layout="@layout/app_bar_layout"></include>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/add_participants_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/add_participants_button"
+        android:layout_below="@+id/add_participants_toolbar" />
+
+    <Button
+        android:id="@+id/add_participants_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/buttons"
+        android:text="add"
+        android:textColor="#ffffff"
+        android:textSize="17dp" />
+
+</RelativeLayout>
